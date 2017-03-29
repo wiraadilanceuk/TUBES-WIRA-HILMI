@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1490717282 source:d:\matakuliah\asd\wira\main.cpp
+	<iostream>
+	"manusia.h"
+	"Program.h"
+	"penyakit.h"
+
+1490717309 d:\matakuliah\asd\wira\manusia.h
+	<iostream>
+
+1490716228 d:\matakuliah\asd\wira\program.h
+	<iostream>
+
+1490714815 d:\matakuliah\asd\wira\penyakit.h
+	<iostream>
+
+1490717698 source:d:\matakuliah\asd\wira\manusia.cpp
+	"manusia.h"
+
+1490717729 source:d:\matakuliah\asd\wira\penyakit.cpp
+	"penyakit.h"
+
+1490718364 source:d:\matakuliah\asd\wira\program.cpp
+	"program.h"
+	"manusia.h"
+	"penyakit.h"
+	"Relasi.h"
+
+1490717883 d:\matakuliah\asd\wira\relasi.h
+	"penyakit.h"
+	"manusia.h"
+	"Relasi.h"
+
+1490718529 source:d:\matakuliah\asd\wira\relasi.cpp
+	"Relasi.h"
+
